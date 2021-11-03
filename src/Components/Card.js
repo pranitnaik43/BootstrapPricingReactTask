@@ -29,7 +29,7 @@ const Card = ({data}) => {
         }
         </ul>
         <div className="d-grid">
-          <a href="#" className="btn btn-primary text-uppercase">Button</a>
+          <button className="btn btn-primary text-uppercase">Button</button>
         </div>
       </div>
     </div>
